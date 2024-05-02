@@ -12,7 +12,7 @@ title                    : "Kelvin Jiang / Homepage"
 title_separator          : "-"
 name                     : &name "Kelvin Jiang"
 description              : &description "personal description"
-url                      : https://kevin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kelvinj2567.github.io/kevin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KelvinJ2567/kevin.github.io"
 
