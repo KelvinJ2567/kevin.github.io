@@ -3,8 +3,7 @@ permalink: /
 title: "Welcome to Kelvin's Website!"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about
 ---
 
 Hi there! I'm Kelvin Jiang, I'm a Master student studying Financial Engineering at Cornell University. Whether you're here to learn more about my academic journey, explore my projects, or connect with me, I'm thrilled to share my experiences and aspirations with you.
