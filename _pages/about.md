@@ -16,9 +16,6 @@ Projects
 ------
 Check out some of my recent projects and academic work. From research papers to creative endeavors, I love diving into new challenges and exploring innovative ideas. Browse through my portfolio to see what I've been working on.
 
-**Academic Achievements**
-------
-Explore my academic achievements and extracurricular activities. From academic honors to leadership roles, I'm dedicated to excelling both inside and outside the classroom. Learn more about my accomplishments and contributions.
 
 **Let's Connect**
 ------
