@@ -11,7 +11,7 @@ redirect_from:
 
 **Academic Journey**
 -----
-Currently pursuing Master of Financial Engineering at Cornell University, I'm deeply fascinated by the application of Machine Learning and Monte Carlo Simulaitons in Financial Market. I believe in the power of education to transform lives and make a positive impact on the world.
+I graduated from the University of Illinois at Urbana-Champaign, where I majored in finance and economics. Currently, I am pursuing a Master of Financial Engineering at Cornell University. My academic journey has fueled a deep fascination with the intersection of finance and technology, particularly in the application of machine learning and Monte Carlo simulations within financial markets. I firmly believed that the quantitative skills can help me better understand the market and making correct decisions.
 
 **Curiosity & Creativity**
 -----
