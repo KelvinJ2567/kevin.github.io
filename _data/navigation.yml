@@ -9,8 +9,8 @@ main:
   - title: "Projects"
     url: /projects/   
     
-  - title: "Achievements"
-    url: /achievements/    
+#  - title: "Achievements"
+#    url: /achievements/    
     
 #  - title: "Guide"
 #    url: /markdown/
