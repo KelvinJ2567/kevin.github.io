@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "Profile1.png"
   name             : "Chenghao (Kelvin) Jiang"
-  pronouns         : "He/His" 
+  pronouns         : #
   bio              : "MFE @ Cornell"
   location         : "New York, US"
   employer         : "Cornell University"
